@@ -1,0 +1,13 @@
+{
+    "history": [
+        {
+            "request": "write an email to HR",
+            "response": "Subject: Request for Information\n\nDear Sir/Madam,\n\nI hope you are doing well. I am writing to request some information.\n\nThank you for your time.\nBest regards",
+            "feedback": "preference",
+            "detail": "detailed"
+        }
+    ],
+    "preferences": {
+        "style": "detailed"
+    }
+}
